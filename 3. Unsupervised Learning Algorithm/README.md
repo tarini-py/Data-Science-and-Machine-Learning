@@ -2,7 +2,7 @@
 
 | Cheatsheet | [Unsupervised Learning Algorithm 1.pdf](https://drive.google.com/file/d/1dQkk9TLUP6PB15vVMJH97LyIxUWySae-/view?usp=drive_link) |
 | :---- | :---- |
-| **Consolidated colab** | [ML2 | Consolidated colab.ipynb](https://colab.research.google.com/drive/1DffHUUvw9dzzLRdf4eY1ACDJDpZ0onwf?usp=sharing) |
+| **Consolidated colab** | [ML2 - Consolidated colab.ipynb](https://colab.research.google.com/drive/1DffHUUvw9dzzLRdf4eY1ACDJDpZ0onwf?usp=sharing) |
 
 | Notes |  |  |
 | :---: | ----- | ----- |
