@@ -6,4 +6,4 @@
 | ML1: Supervised  | [ML 1 Supervised](https://docs.google.com/document/d/13zosnQHIqXcUiYqlLrXMPYs4MIDJqnYSoctnNNOTDxU/edit?usp=drive_link) |
 | ML2: Unsupervised | [ML2 Unsupervised](https://docs.google.com/document/d/11cuJ-hE-xM1XCUmhB_w39q96_359eEcq0198GQuFllk/edit?usp=sharing) |
 | ML3: Forecasting & Rec Sys | [ML 3 Forecasting & Rec Sys](https://docs.google.com/document/d/1sbsurPABRXvpOi66KVAhgfEKBNYna3lqlT_Dvn21KR8/edit?usp=drive_link)  |
-
+| MLOps | [MLOps Notes](https://docs.google.com/document/d/12rJgwiT3gwWorm3UQRjQM6GA3rhZHgw-iJwBhTDviQs/edit?tab=t.0)  |
