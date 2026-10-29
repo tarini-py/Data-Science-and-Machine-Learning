@@ -1,6 +1,6 @@
-https://chatgpt.com/s/t\_6ae35e40654881918ec64524236f2a1b
+[https://chatgpt.com/s/t\_6ae35e40654881918ec64524236f2a1b](https://chatgpt.com/s/t_6ae35e40654881918ec64524236f2a1b)
 
-https://chatgpt.com/s/t\_6ae36081c2508191974cb085ce128d9c
+[https://chatgpt.com/s/t\_6ae36081c2508191974cb085ce128d9c](https://chatgpt.com/s/t_6ae36081c2508191974cb085ce128d9c)
 
 
 
@@ -27,10 +27,4 @@ So, the expense depends on which SHAP explainer you use, the model type, the num
 
 
 \---
-
-
-
-
-
-
 
